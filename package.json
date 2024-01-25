@@ -1,0 +1,26 @@
+{
+  "name": "create-simple-webserver",
+  "version": "1.0.0",
+  "description": "Create simple webserver using NodeJS built-in http module",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamed-Taherkhani/simple-nodejs-webserver.git"
+  },
+  "keywords": [
+    "HT",
+    "NodeJS",
+    "WebServer",
+    "http"
+  ],
+  "author": "HT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hamed-Taherkhani/simple-nodejs-webserver/issues"
+  },
+  "homepage": "https://github.com/Hamed-Taherkhani/simple-nodejs-webserver#readme"
+}
